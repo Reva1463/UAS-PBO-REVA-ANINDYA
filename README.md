@@ -6,4 +6,5 @@ NIM: 24091397042
 
 Struktur Folder:
 1. Source code
-2. Laporan (pdf)
+2. Class Diagram
+3. Laporan (pdf)
